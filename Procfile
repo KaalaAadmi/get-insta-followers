@@ -1,0 +1,1 @@
+web: gunicorn follower_increase:app --log-file
