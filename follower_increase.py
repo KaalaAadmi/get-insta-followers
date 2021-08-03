@@ -9,8 +9,8 @@ from datetime import datetime
 accounts = [];
 accCount = 0;
 
-myAccount = "epic.valo.fails";
-myPassword = "EpicValoFails"
+myAccount = "" #< -- enter your username here
+myPassword = "" #< -- enter your password here
  #fill this out with a starting page
 accounts.append("valorantfunnytv");
 accounts.append("yamivalorant");
